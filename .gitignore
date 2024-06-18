@@ -40,3 +40,5 @@ config_folder/main_configs/webui_generated_file/
 
 # redis dump
 dump.rdb
+
+.DS_Store
